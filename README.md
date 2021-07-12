@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @R-A-G
 - 👀 I’m interested in Analytics, coding in general and game design. I also write but never show it to anyone.
+- You can find me on Twitter as @RallvarezRaul !
 
 
 <!---
